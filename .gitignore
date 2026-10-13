@@ -2,3 +2,5 @@
 target
 *.un~
 dist-newstyle
+main
+program
